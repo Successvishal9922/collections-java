@@ -8,8 +8,8 @@ public class Adding5Numbers {
         A.add(15);
         A.add(15);
         A.add(15);
-        A.add(15);
-        A.add(15);
+        A.add(20);
+        A.add(18);
          System.out.println(A);
     }
 }
