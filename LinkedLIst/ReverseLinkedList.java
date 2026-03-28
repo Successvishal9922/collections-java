@@ -24,5 +24,6 @@ public class ReverseLinkedList {
         while (N.hasNext()) {
             System.out.println(N.next());
         }
+        sc.close();
     }
 }

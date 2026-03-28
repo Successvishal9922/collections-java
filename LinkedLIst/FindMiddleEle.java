@@ -19,5 +19,6 @@ public class FindMiddleEle {
 
         System.out.println(L);
         System.out.println("middle = " + L.get(mid));
+        sc.close();
     }
 }
